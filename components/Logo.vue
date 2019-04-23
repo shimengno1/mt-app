@@ -6,7 +6,8 @@
     <div class="Triangle Triangle--four" />
   </div>
 </template>
-<style lang="scss">
+
+<style>
 .VueToNuxtLogo {
   display: inline-block;
   animation: turn 2s linear forwards 1s;
@@ -24,6 +25,7 @@
   width: 0;
   height: 0;
 }
+
 .Triangle--one {
   border-left: 105px solid transparent;
   border-right: 105px solid transparent;

@@ -1,6 +1,6 @@
 # mt-app
 
-> My great Nuxt.js project
+> My praiseworthy Nuxt.js project
 
 ## Build Setup
 
@@ -8,7 +8,7 @@
 # install dependencies
 $ npm install
 
-# serve with hot reload at localhost:3000
+# serve with hot reload at localhost:3009
 $ npm run dev
 
 # build for production and launch server
