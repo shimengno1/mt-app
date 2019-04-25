@@ -9,7 +9,7 @@
         v-for="(item,index) in menu"
         :key="index"
         @mouseenter="mouseenter"
-      ><i :class="item.type">{{item.name}}</i><span class="arrow"></span></dd>
+      ><i :class="item.type"></i>{{item.name}}<span class="arrow"></span></dd>
     </dl>
     <div
       v-if="kind"
